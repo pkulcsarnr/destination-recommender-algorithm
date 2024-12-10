@@ -8,3 +8,26 @@ This work is licensed under a
 [cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
+
+# Airport recommendation for Many to Many case.
+
+This repository contains a research project that was aimed to solve a many-to-many challenge when looking for available airports for multiple origin airports.
+
+## Articles
+
+The entire evolution of different approaches from row database, through graph databases to bit encoding has been documented in multiple articles found here:
+
+- [Article1](https://www.trip-z.com)
+
+
+## How to run benchmark and tests
+
+To run the benchmark, use the command:
+```
+bun benchmark/benchmark.ts
+```
+
+To run the tests, use the command:
+```
+bun test
+```
