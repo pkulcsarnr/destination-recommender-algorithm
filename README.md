@@ -19,6 +19,8 @@ The entire evolution of different approaches from row database, through graph da
 
 - [Problem Statement and Naive Approach](https://medium.com/@pkulcsarsz/the-challenges-of-group-travel-planning-problem-statement-and-naive-approach-18846936c620)
 - [From Problem to First Solution](https://medium.com/@pkulcsarsz/from-problem-to-solution-my-first-approach-to-group-travel-destination-recommendation-54517b8fc4ef)
+- [From Rows to Graphs](https://medium.com/@pkulcsarsz/from-rows-to-graphs-expanding-global-destination-recommendations-ab5e560f9742)
+- [Custom Data Structure](https://medium.com/@pkulcsarsz/solving-group-travel-recommendations-with-a-custom-data-structure-4dba1b478c32)
 
 
 ## How to run benchmark and tests
