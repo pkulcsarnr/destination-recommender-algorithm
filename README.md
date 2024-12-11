@@ -17,7 +17,8 @@ This repository contains a research project that was aimed to solve a many-to-ma
 
 The entire evolution of different approaches from row database, through graph databases to bit encoding has been documented in multiple articles found here:
 
-- [Article1](https://www.trip-z.com)
+- [Problem Statement and Naive Approach](https://medium.com/@pkulcsarsz/the-challenges-of-group-travel-planning-problem-statement-and-naive-approach-18846936c620)
+- [From Problem to First Solution](https://medium.com/@pkulcsarsz/from-problem-to-solution-my-first-approach-to-group-travel-destination-recommendation-54517b8fc4ef)
 
 
 ## How to run benchmark and tests
