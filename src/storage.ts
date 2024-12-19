@@ -27,9 +27,9 @@ export class ConnectionsStorage implements IStorage {
    */
   MAX_DAYS_SUPPORTED = 360;
 
-  // second layer is for days => 360 days into the future,
-  // third layer is for destinations,
-  // first layer is for stops => 0 - zero, 1 - one, 2 - two stops,
+  // first layer is for days => 360 days into the future,
+  // second layer is for destinations,
+  // third layer is for stops => 0 - zero, 1 - one, 2 - two stops,
   // fourth layer is for origins
 
   /**
